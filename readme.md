@@ -16,7 +16,7 @@
 The project contributes to the Full Stack knowledge enhancement of @cdunsford
 
 ## Screenshots
-![CLI View](/images/InspirationalMessageImage.png)
+![CLI View](https://github.com/cdunsford/inspirationalmessagegenerator/blob/main/images/InspirationalMessageImage.PNG)
 
 ## Technologies
 * JavaScript
