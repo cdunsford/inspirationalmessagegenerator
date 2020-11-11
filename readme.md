@@ -16,7 +16,7 @@
 The project contributes to the Full Stack knowledge enhancement of @cdunsford
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![CLI View](./images/InspirationalMessageImage.png)
 
 ## Technologies
 * JavaScript
@@ -31,24 +31,24 @@ Navigate to project parent folder
 Run project through NodeJS
 
 ## Code Examples
-Show examples of usage:
-`put-your-code-here`
+Examples of usage:
+`node main.js`
 
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Asks you if you are ready
+* Exits if you are not ready
+* Remembers your name
+* Gives you three different messages
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* N/A
 
 ## Status
-Project is: _in progress_
+Project is: _complete_
 
 ## Inspiration
-Add here credits. Project inspired by CodeCademy, based on learning resources
+Project inspired by CodeCademy, based on learning resources
 
 ## Contact
 Created by [@cdunsford](https://www.linkedin.com/in/christopher-dunsford-3a6a7b50/) - feel free to contact me!
